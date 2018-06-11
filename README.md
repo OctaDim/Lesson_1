@@ -1,2 +1,2 @@
 # Lesson_1
-Lesson 1 (HTML teaching)
+Lesson 1 (HTML learning)
